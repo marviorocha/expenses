@@ -1,10 +1,15 @@
 {
-    "builds": [
-      {
-        "src": "lib/main.dart",
-        "use": "@vercel/flutter"
-      }
-    ],
-    "outputDirectory": "build/web"
-  }
-  
+  "builds": [
+    {
+      "src": "lib/main.dart",
+      "use": "@vercel/flutter"
+    }
+  ],
+  "outputDirectory": "build/web",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
