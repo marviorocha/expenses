@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "lib/main.dart",
+        "use": "@vercel/flutter"
+      }
+    ],
+    "outputDirectory": "build/web"
+  }
+  
