@@ -1,0 +1,16 @@
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/expenses
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/lib/native_assets.json
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/marviorocha/www/expenses/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
