@@ -1,7 +1,4 @@
-[
-  [headers
-  ]
-]
-  for = "/*.wasm"[headers.values
-]
+[[headers]]
+  for = "/*.wasm"
+  [headers.values]
     Content-Type = "application/wasm"
